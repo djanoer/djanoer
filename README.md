@@ -3,8 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Technologi Information at Politeknik Negeri Banyuwangi.
-- 💼 &nbsp; Working as a IT Engineer.
+- 💼 &nbsp; Working as a IT Infrastucture Engineer.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Programming and Virtualization.
 - ✍️ &nbsp; Coding and drinking coffee is my hobby.
 
